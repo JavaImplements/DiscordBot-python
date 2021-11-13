@@ -1,0 +1,10 @@
+{
+    "token": "TOKEN",
+    "prefix": "$",
+    "channel_join_message": 455000133093031947,
+    "channel_quit_message": 455000133093031947,
+    "channel_id_ticket": 709011257860161577,
+    "message_id_ticket": 821114285732003870,
+    "logs_channel": 454991609994674186,
+    "support_role_id": 709014446110146573
+}
